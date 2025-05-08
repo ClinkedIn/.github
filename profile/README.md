@@ -44,12 +44,12 @@ LockedIn is a **full-stack** professional networking platform designed to bridge
 
 | Team | Team Leader | Members |  
 |------|------------|---------|  
-| **Backend** | Ali Mohamed Abdelghani | Abdelrahman Kamal, Amr Magdy, Omar Elshereef |  
-| **Frontend** | Saif Eldin Wael | Hamsa Saber, Abdelrahman Ashraf, Seif Hesham, Mohamed Ayman, Mohamed Elsayed |  
-| **Cross-platform** | Omar Ahmed Mohamed | Bassel Ahmed, Rana Yasser, Mahmoud Nasr, Mohamed Nabil, Abdelrahman Mansour |  
-| **DevOps** | Ahmed Muhammed Taha | - |  
-| **Testing** | Youssef Ahmed Abdelbar | Alia Tarek Omr Tolba |  
+| **Backend** | [Ali Mohamed Abdelghani](https://github.com/Alii-s) | Abdelrahman Kamal, Amr Magdy, Omar Elshereef |  
+| **Frontend** | [Ahmed Muhammed Taha](https://github.com/tahaaa22) | Hamsa Saber, Abdelrahman Ashraf, Seif Hesham, Mohamed Ayman, Mohamed Elsayed, Saif Eldin Wael |  
+| **Cross-platform** | [Omar Ahmed Mohamed](https://github.com/omarrrefaatt) | Bassel Ahmed, Rana Yasser, Mahmoud Nasr, Mohamed Nabil, Abdelrahman Mansour |  
+| **DevOps & Team Lead** | [Ahmed Muhammed Taha](https://github.com/tahaaa22) | - |  
+| **Testing** | [Youssef Ahmed Abdelbar](https://github.com/youssefhammadd) | Alia Tarek Omr Tolba |  
 
 ## 📂 Resources  
-🔗 **GitHub Organization:** [-]  
-📂 **Google Drive:** [-]  
+🔗 **GitHub Organization:** [LockedIn](www.lockedin-cufe.me)  
+📂 **Google Drive:** [documentation](https://drive.google.com/drive/folders/1wOM7ic3Yxc5jF33c-1mtPPBvzPHfFUxn?usp=sharing)  
