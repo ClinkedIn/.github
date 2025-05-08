@@ -51,5 +51,5 @@ LockedIn is a **full-stack** professional networking platform designed to bridge
 | **Testing** | [Youssef Ahmed Abdelbar](https://github.com/youssefhammadd) | Alia Tarek Omr Tolba |  
 
 ## 📂 Resources  
-🔗 **GitHub Organization:** [LockedIn](www.lockedin-cufe.me)  
+🔗 **Our Website:** [LockedIn](https://www.lockedin-cufe.me)  
 📂 **Google Drive:** [documentation](https://drive.google.com/drive/folders/1wOM7ic3Yxc5jF33c-1mtPPBvzPHfFUxn?usp=sharing)  
